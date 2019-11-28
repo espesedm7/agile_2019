@@ -38,8 +38,6 @@ for geospatial data.
 
 I learned about possibilities how to visulize some kinds od data. How to do it easily and attractively. But for my reserch I need litte bit different king of visualization as scientific visualization. I need to anylyze the data not only diplay.
 
-
-
 ![cognitive cartogrphy methods](methods.jpg)
 
 
