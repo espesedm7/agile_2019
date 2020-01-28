@@ -13,9 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Name: Marketa Beitlova
 
-University: Palacky univerity Olomouc
+University: Palacký Univerity Olomouc
 
-Country: Czech republic
+Country: Czech Republic
 
 **Title of the PhD thesis:**
  
@@ -23,20 +23,14 @@ Country: Czech republic
  
 **Motivation:**
 
-In my Ph.D. thesis, I am investigating map reading of students and their teachers using eye-tracking
-and I am comparing their reading strategies. Eye-tracking is a technology, that allows recording of the
-human gaze. It is widely used in many fields of research including GIS and cartography. Eye-tracking
-data is spatial-temporal data because eye movements are recorded over time in relation to space
-(screen or map).
+In my Ph.D. thesis, I am investigating map reading of students and their teachers using eye-tracking and I am comparing their reading strategies. Eye-tracking is a technology that allows the recording of the human gaze. It is widely used in many fields of research, including GIS and cartography. Eye-tracking data is spatial-temporal data because eye movements are recorded over time in relation to space (screen or map).
 
-The main aim of my Ph.D. thesis is to compare eye-movement trajectories of different groups of users
-- teachers and their students. I already have an experience in analyses and visualization of eye-tracking
-data using V-analytics tool (space-time cube and other). It can be used for eye-tracking data as well as
-for geospatial data.
+The main aim of my Ph.D. thesis is to compare eye-movement trajectories of different groups of users - teachers and their students. I already have an experience in analyses and visualization of eye-tracking
+data using V-analytics tool (space-time cube and other). It can be used for eye-tracking data as well as for geospatial data.
 
 ## Visualization
 
-I learned about possibilities how to visulize some kinds od data. How to do it easily and attractively. But for my reserch I need litte bit different king of visualization as scientific visualization. I need to anylyze the data not only diplay.
+I learned about the possibilities of how to visualize some kinds of data and how to do it quickly and attractively. But for my research, I need a little bit different king of visualization as scientific visualization. I need to analyze the data, not visualize them only.
 
 ![cognitive cartogrphy methods](methods.jpg)
 
@@ -45,13 +39,13 @@ I learned about possibilities how to visulize some kinds od data. How to do it e
 
 ## Reproducibility
 
-Reproducibility topic was much more interestig for me. Reproducibility is very importatnt. I´ll ty to put somethig of this ideas into my reseach. Firstly, I will try to write my papers as reproducible as possible.
+The reproducibility topic was much more interesting for me. Reproducibility is essential. I´ll try to put some of these ideas into my research. Firstly, I will try to write my papers as reproducible as possible.
 
-The practical part of this topic was very interesting I hope that we will use that for management of our eye-traking data. 
+The practical part of this topic was exciting. I hope that we will use that for the management of our eye-tracking data. 
 
 
 ## Science communication
 
-Probably the best part of the Agile PhD school. I realized how important is to think about audience, about the whole story of the paper, what i need to say, what i need to reach, etc.It´s necessery  
+Probably the best part of the Agile Ph. D. school. I realized how important it is to think about the audience, about the whole story of the paper, what I need to say, what I need to reach, etc. It´s necessary  
 I will use these ideas in my next articles.
 
